@@ -1,1 +1,1 @@
-A Simple login and sugn up page with account recovery option.
+A Simple login and sign up page with account recovery option.
